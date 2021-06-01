@@ -16,7 +16,7 @@ pyOpenSSL==17.5.0
 PySocks==1.6.8
 requests==2.18.4
 six==1.11.0
-urllib3==1.22
+urllib3==1.26.5
 Werkzeug==0.14.1
 wikipedia==1.4.0
 win-inet-pton==1.0.1
